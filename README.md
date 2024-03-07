@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Jaime's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaime-prog)](https://github.com/jaime-prog/github-readme-stats)
+
 <!--
 **Jaime-prog/Jaime-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
