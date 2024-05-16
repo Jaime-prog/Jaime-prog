@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🖥️  See my portfolio at [Jaime_Lopez](https://jaimelopez.netlify.app/)
 * 🧠  I have with experience Artificial Intelligence for Data Science
 * 🤝  I'm open to collaborating on Web Development Projects
-* - 📫 How to reach me: [Jaime_Lopez](https://jaimelopez.netlify.app/)
+* 📫 How to reach me: [Portafolio](https://jaimelopez.netlify.app/)
 
 ### Skills
 
